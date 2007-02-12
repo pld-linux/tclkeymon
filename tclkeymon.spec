@@ -1,5 +1,5 @@
 Summary:	Tclkeymon - Monitor the Toshiba keys, and respond appropriately
-Summary(pl.UTF-8):   Tclkeymon - monitorowanie i reagowanie na klawisze Toshiby
+Summary(pl.UTF-8):	Tclkeymon - monitorowanie i reagowanie na klawisze Toshiby
 Name:		tclkeymon
 Version:	0.51
 Release:	0.1
