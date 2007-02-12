@@ -1,5 +1,5 @@
 Summary:	Tclkeymon - Monitor the Toshiba keys, and respond appropriately
-Summary(pl):	Tclkeymon - monitorowanie i reagowanie na klawisze Toshiby
+Summary(pl.UTF-8):   Tclkeymon - monitorowanie i reagowanie na klawisze Toshiby
 Name:		tclkeymon
 Version:	0.51
 Release:	0.1
@@ -20,10 +20,10 @@ and the Toshiba-ACPI extensions. It monitors function keys and Toshiba
 specific buttons (including the CD-player buttons, and the state of
 the laptop lid), and responds appropriately.
 
-%description -l pl
-Tclkeymon to napisany w Tcl-u demon dla laptopów Toshiby
-wykorzystuj±cy ACPI wraz z rozszerzeniami Toshiby. Monitoruje klawisze
-funkcjne i specyficzne dla Toshiby (w³±cznie z przyciskami odtwarzacza
+%description -l pl.UTF-8
+Tclkeymon to napisany w Tcl-u demon dla laptopÃ³w Toshiby
+wykorzystujÄ…cy ACPI wraz z rozszerzeniami Toshiby. Monitoruje klawisze
+funkcjne i specyficzne dla Toshiby (wÅ‚Ä…cznie z przyciskami odtwarzacza
 CD i stanem pokrywy laptopa) i odpowiednio na nie reaguje.
 
 %prep
